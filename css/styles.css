@@ -5,3 +5,9 @@
   font-size: 10px;
   color: #673AB7;
 }
+
+.column {
+  float: left;
+  width: 350px;
+  padding: 10px;
+}
