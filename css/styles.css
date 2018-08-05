@@ -1,3 +1,9 @@
+@media screen and (max-width:450px) {
+    .column {
+      width: 100;
+    }
+}
+
 * {
   box-sizing: border-box;
 }
@@ -7,11 +13,9 @@ body {
 }
 
 .header {
-  background-color: #F5F5F5;
-  padding: 20px;
-  text-align: left;
-  font-size: 10px;
-  color: #673AB7;
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
 }
 
 .column {
@@ -24,4 +28,17 @@ body {
   content: "";
   display: table;
   clear: both;
+}
+
+.navigationbar {
+  overflow: hidden;
+  background-color: #515A5A;
+}
+
+.navigationbar a {
+  float: left;
+  display: block;
+  color: #2196F3;
+  text-align: center;
+  padding: 13px 15px;
 }
