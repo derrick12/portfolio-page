@@ -13,7 +13,7 @@
 { I have built the website using HTML and used CSS for styling of the website.}
 
 ## Support and contact details
-{Feel free to cantact me incase of any issues me at derrickwaweru@gmail.com}
+{Feel free to cantact me incase of any issues at derrickwaweru@gmail.com}
 MIT License
 
 Copyright (c) [year] [fullname]
