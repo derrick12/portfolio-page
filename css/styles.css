@@ -1,3 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
 .header {
   background-color: #F5F5F5;
   padding: 20px;
@@ -10,4 +18,10 @@
   float: left;
   width: 350px;
   padding: 10px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
