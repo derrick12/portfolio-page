@@ -32,7 +32,7 @@ body {
 
 .navigationbar {
   overflow: hidden;
-  background-color: #515A5A;
+  background-color: #17202A;
 }
 
 .navigationbar a {
@@ -41,4 +41,8 @@ body {
   color: #2196F3;
   text-align: center;
   padding: 13px 15px;
+}
+
+.projects {
+  padding: 15px;
 }
