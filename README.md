@@ -1,8 +1,8 @@
-# {Portfolio Page Website}
-#### {This website is an online portfolio of my education, job experiences, my passions and interests among others. It contains links to my previous websites I have worked on.}, {Date of current version}
+# Portfolio Page Website
+#### This website is an online portfolio of my education, job experiences, my passions and interests among others. It contains links to my previous websites I have worked on., 3rd August 2018.
 #### By Derrick Kariuki.
 ## Description
-{This website is an online portfolio of my education, job experiences, my passions and interests among others. It contains links to my previous websites I have worked on. I have built the website using HTML and used CSS for styling of the website.}
+This website is an online portfolio of my education, job experiences, my passions and interests among others. It contains links to my previous websites I have worked on. I have built the website using HTML and used CSS for styling of the website.
 ## Setup/Installation Requirements
 * In order to display locally the website you will need to have both Git and a working browser preferably a chrome browser installed in your computer.
 * Clone or download the website url from my github account locally
@@ -10,11 +10,12 @@
 * open the index.html file using the browser to view the website.
 
 ## Live Webpage at : https://derrick12.github.io/portfolio-page/
+
 ## Technologies Used
-{ I have built the website using HTML and used CSS for styling of the website.}
+I have built the website using HTML and used CSS for styling of the website.
 
 ## Support and contact details
-{Feel free to cantact me incase of any issues at derrickwaweru@gmail.com}
+Feel free to cantact me incase of any issues at derrickwaweru@gmail.com
 
 MIT License
 
